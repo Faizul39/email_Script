@@ -122,3 +122,15 @@ Professional:
 Dear [Name],
 
 I hope this email finds you well. My name is [Your Name], and I’m [Your Position] at [Your Company]. I wanted to introduce myself and explore potential ways we can collaborate on [specific topic]. 
+
+Dear Hiring Manager,
+
+Thank you for presenting such a wonderful opportunity. I am excited to apply for the position of Senior Executive as advertised on JIB. My qualifications and professional experiences align closely with the requirements of this role.
+
+Please find my application documents attached for your review:
+
+Resume
+Cover Letter
+
+I would be delighted to discuss how I can contribute to your team and look forward to the opportunity to hear from you soon.
+
